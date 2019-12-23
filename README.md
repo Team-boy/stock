@@ -1,5 +1,5 @@
 # stock
-# eastmoney-yaowen-keyword
+
 Python抓取东方财富要闻的热点词
 
 ## **下载**
@@ -53,7 +53,7 @@ No | param | meaning
 
 
 
-# stock-price-num-score
+
 根据《胡立阳股票投资100招》给股票打分的盈利率
 
 
@@ -75,7 +75,6 @@ No | param | meaning
 
 以此类推`m`天可得出m天这一策略的盈利几率， 如下图是我得出的某一种可能：
 
-![胡立阳打分标准盈利率](https://catsjuice.cn/index/src/markdown/stock/201904281250.png "胡立阳打分标准盈利率")
 
 > **键值说明:**
 > 
