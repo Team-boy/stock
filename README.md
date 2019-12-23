@@ -5,7 +5,7 @@ Python抓取东方财富要闻的热点词
 
 ## **下载**
 - 直接下载`.zip`文件
-- `git clone git@github.com:CatsJuice/eastmoney-yaowen-keyword.git`
+- `git clone `
 
 ## **使用前提**
 - Python 3.x
@@ -93,9 +93,9 @@ No | param | meaning
 
 
 
-**下载**
-- 下载`.zip`文件
-- `git clone https://github.com/CatsJuice/stock-price-num-score.git`
+ **下载**
+- 直接下载`.zip`文件
+- `git clone `
 
 **使用前提**
 - Python 3.x
